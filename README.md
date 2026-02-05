@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Rahul
 
-<!--
-**rahulthapa9024/rahulthapa9024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 💻 Full Stack Developer
+- 🌱 Learning AI & Blockchain
+- 🚀 Building cool web apps
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Frontend: React, Tailwind
+- Backend: Node.js, Express
+- Database: MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
