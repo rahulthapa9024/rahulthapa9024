@@ -1,98 +1,70 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Rahul – Portfolio</title>
+# Hi, I'm Rahul 👋
 
-  <style>
-    body {
-      margin: 0;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      color: white;
-    }
+🚀 Full-Stack Developer | React • Node.js • MongoDB  
+🤖 Learning AI, Machine Learning & Blockchain  
+🇮🇳 Based in India
 
-    /* Background */
-    .bg {
-      position: fixed;
-      inset: 0;
-      background-image: url("https://i.redd.it/48zd8xe6k49a1.jpg");
-      background-size: cover;
-      background-position: center;
-      background-repeat: no-repeat;
-      z-index: -1;
-    }
+---
 
-    /* Overlay for readability */
-    .overlay {
-      position: fixed;
-      inset: 0;
-      background: rgba(0, 0, 0, 0.55);
-    }
+## 👨‍💻 About Me
 
-    /* Content */
-    .hero {
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-      padding: 20px;
-    }
+- Passionate about building **scalable web applications**
+- Experienced with **React, Redux Toolkit, Node.js, Express, MongoDB**
+- Currently exploring **AI/ML with Python** and **Blockchain development**
+- Love clean UI, performance optimization & real-world problem solving
 
-    h1 {
-      font-size: clamp(2.5rem, 5vw, 4rem);
-      margin-bottom: 16px;
-      font-weight: 700;
-    }
+---
 
-    p {
-      font-size: 1.1rem;
-      opacity: 0.9;
-      margin-bottom: 30px;
-    }
+## 🛠️ Tech Stack
 
-    .socials {
-      display: flex;
-      gap: 16px;
-      justify-content: center;
-      flex-wrap: wrap;
-    }
+**Frontend**
+- React, Tailwind CSS, Framer Motion
+- HTML, CSS, JavaScript
 
-    .socials a {
-      text-decoration: none;
-      color: white;
-      padding: 12px 22px;
-      border-radius: 999px;
-      border: 1px solid rgba(255,255,255,0.4);
-      backdrop-filter: blur(6px);
-      transition: all 0.3s ease;
-      font-weight: 500;
-    }
+**Backend**
+- Node.js, Express
+- MongoDB, Mongoose
+- JWT, Sessions, Authentication
 
-    .socials a:hover {
-      background: white;
-      color: black;
-      transform: translateY(-2px);
-    }
-  </style>
-</head>
+**Tools & Others**
+- Git & GitHub
+- REST APIs
+- Cloudinary
+- Firebase / Clerk Auth
+- Python, NumPy, Pandas
 
-<body>
-  <div class="bg"></div>
-  <div class="overlay"></div>
+---
 
-  <section class="hero">
-    <div>
-      <h1>Hi, I'm Rahul 👋</h1>
-      <p>Full-Stack Developer • React • Node • AI & ML</p>
+## 📌 Featured Projects
 
-      <div class="socials">
-        <a href="https://twitter.com/your_username" target="_blank">X</a>
-        <a href="https://linkedin.com/in/your_username" target="_blank">LinkedIn</a>
-        <a href="https://github.com/your_username" target="_blank">GitHub Portfolio</a>
-      </div>
-    </div>
-  </section>
-</body>
-</html>
+🔹 **E-Commerce Platform**  
+- Full-stack app with authentication, cart, favourites & checkout  
+- Tech: React, Redux Toolkit, Node.js, MongoDB  
+
+🔹 **NSE Trading Metrics App**  
+- Streamlit app for stock analysis & trading insights  
+- Python, SQLite, SmartAPI, nselib  
+
+🔹 **Authentication System**  
+- JWT + Cookies, Google Login, OTP-based login  
+- Secure backend & clean UI  
+
+---
+
+## 🌐 Connect With Me
+
+- ❌ X (Twitter): https://twitter.com/your_username  
+- 💼 LinkedIn: https://linkedin.com/in/your_username  
+- 🧑‍💻 GitHub: https://github.com/your_username  
+
+---
+
+## 📊 GitHub Stats
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=tokyonight)
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
