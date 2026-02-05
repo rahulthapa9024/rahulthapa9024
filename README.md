@@ -1,70 +1,88 @@
-# Hi, I'm Rahul 👋
+<h1 align="center">Hi, I'm Rahul 👋</h1>
 
-🚀 Full-Stack Developer | React • Node.js • MongoDB  
-🤖 Learning AI, Machine Learning & Blockchain  
-🇮🇳 Based in India
+<p align="center">
+  Full-Stack Developer • React • Node • AI & ML
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- Passionate about building **scalable web applications**
-- Experienced with **React, Redux Toolkit, Node.js, Express, MongoDB**
-- Currently exploring **AI/ML with Python** and **Blockchain development**
-- Love clean UI, performance optimization & real-world problem solving
+I'm a passionate **Full-Stack Developer** who enjoys building clean, scalable web applications and experimenting with modern technologies.
+
+- 💻 React, Redux Toolkit, Node.js, MongoDB
+- 🔐 Authentication systems (JWT, Cookies, OAuth, OTP)
+- 📊 Data & Stock analysis with Python
+- 🤖 Learning AI, ML & Blockchain
+- 🎨 Strong focus on UI/UX and performance
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/your_username">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your_username">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/your_username">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend**
-- React, Tailwind CSS, Framer Motion
+- React
+- Tailwind CSS
+- Framer Motion
 - HTML, CSS, JavaScript
 
 **Backend**
-- Node.js, Express
-- MongoDB, Mongoose
-- JWT, Sessions, Authentication
+- Node.js
+- Express
+- MongoDB & Mongoose
+- JWT & Sessions
 
-**Tools & Others**
+**Others**
 - Git & GitHub
 - REST APIs
 - Cloudinary
-- Firebase / Clerk Auth
+- Firebase / Clerk
 - Python, NumPy, Pandas
 
 ---
 
 ## 📌 Featured Projects
 
-🔹 **E-Commerce Platform**  
-- Full-stack app with authentication, cart, favourites & checkout  
-- Tech: React, Redux Toolkit, Node.js, MongoDB  
+### 🛒 E-Commerce Platform
+- Authentication, cart, favourites, checkout
+- React + Redux Toolkit + Node.js + MongoDB
 
-🔹 **NSE Trading Metrics App**  
-- Streamlit app for stock analysis & trading insights  
-- Python, SQLite, SmartAPI, nselib  
+### 📈 NSE Trading Metrics App
+- Stock analytics dashboard
+- Python, Streamlit, SQLite, SmartAPI
 
-🔹 **Authentication System**  
-- JWT + Cookies, Google Login, OTP-based login  
-- Secure backend & clean UI  
-
----
-
-## 🌐 Connect With Me
-
-- ❌ X (Twitter): https://twitter.com/your_username  
-- 💼 LinkedIn: https://linkedin.com/in/your_username  
-- 🧑‍💻 GitHub: https://github.com/your_username  
+### 🔐 Authentication System
+- JWT, Google Login, OTP-based auth
+- Secure backend & clean UI
 
 ---
 
 ## 📊 GitHub Stats
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
