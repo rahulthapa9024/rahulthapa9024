@@ -1,1 +1,5 @@
-<img src="https://i.redd.it/48zd8xe6k49a1.jpg">
+<div style="position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: red;">
+</div>
