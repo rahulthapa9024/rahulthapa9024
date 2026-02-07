@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://x.com/rahulthapa9024" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+    <img src="https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/rahul-thapa-02a168320/" target="_blank">
