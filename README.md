@@ -59,34 +59,16 @@
 
 ### 📊 Data Science & Analytics
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pandas,sklearn" />
-  </a>
   <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="48" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="48" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="48" />
 </p>
 
 ### 🧩 Tools & Deployment
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,leetcode,aws,vercel,render" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,vercel,render" />
   </a>
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulthapa9024&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulthapa9024&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulthapa9024&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>"Continuously Learning & Adapting: Exploring the intersection of Full-Stack Development and AI/ML."</i>
 </p>
