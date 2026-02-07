@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" height="30" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/rahulthapa9024" target="_blank">
+  <a href="https://www.linkedin.com/in/rahul-thapa-02a168320/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   &nbsp;
