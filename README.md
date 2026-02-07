@@ -19,3 +19,9 @@
     <img src="https://img.shields.io/badge/Portfolio-%234285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=60A5FA&center=true&vCenter=true&width=435&lines=I'm+a+Web+Developer;I'm+a+Software+Developer;I'm+an+AI/ML+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
