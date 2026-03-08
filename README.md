@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Rahul Thapa 👋</h1>
-
 <p align="center">
   <img src="./image.png" />
 </p>
