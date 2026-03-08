@@ -22,9 +22,8 @@ Building scalable applications and exploring intelligent systems.
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 &nbsp;&nbsp;
-
 <a href="https://x.com/rahulthapa9024" target="_blank">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
 </a>
 &nbsp;&nbsp;
 
